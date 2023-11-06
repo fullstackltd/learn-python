@@ -1,6 +1,2 @@
-# Class 01
-## Introduction to Python
-### Hello World
-```py
-print("Hello World")
-```
+# Problem Solving with Python
+- [Class 1](./docs/class1.md)
